@@ -1,0 +1,10 @@
+ultralytics==8.3.252
+streamlit==1.52.2
+streamlit-webrtc==0.64.5
+opencv-python==4.8.0.76
+torch==2.2.2+cu121
+torchvision==0.17.2+cu121
+Pillow==12.1.0
+numpy==1.26.4
+onnxruntime-gpu==1.16.3
+tensorrt==10.11.0.33

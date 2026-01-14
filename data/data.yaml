@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['copper', 'mousebite', 'open', 'pin-hole', 'short', 'spur']
+
+roboflow:
+  workspace: tack-hwa-wong-zak5u
+  project: deeppcb-4dhir
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tack-hwa-wong-zak5u/deeppcb-4dhir/dataset/5

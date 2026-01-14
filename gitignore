@@ -1,0 +1,13 @@
+runs/
+exports/
+__pycache__/
+*.pt
+*.onnx
+*.engine
+data/images/  # 排除全图像，只留样本手动add
+data/labels/  # 同上
+data/*.zip
+*.mp4
+*.jpg
+*.png
+.ipynb_checkpoints/
